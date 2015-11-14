@@ -1,8 +1,6 @@
-MyProject
-=========
-这里记录了我做过的项目：
+#MyProject
 HiQ通讯是模仿QQ开发的即时通讯系统。
-基于Java的开发 ，实现功能：
+基于Java Swing + TCP + UDP + eclipse开发的即时通信系统 ，实现功能：
 1：登陆
 2：注册
 3：聊天
